@@ -1,0 +1,15 @@
+/Users/hasan/Projects/lemon/lemon/bin/Debug/net6.0/lemon
+/Users/hasan/Projects/lemon/lemon/bin/Debug/net6.0/lemon.deps.json
+/Users/hasan/Projects/lemon/lemon/bin/Debug/net6.0/lemon.runtimeconfig.json
+/Users/hasan/Projects/lemon/lemon/bin/Debug/net6.0/lemon.dll
+/Users/hasan/Projects/lemon/lemon/bin/Debug/net6.0/lemon.pdb
+/Users/hasan/Projects/lemon/lemon/obj/Debug/net6.0/lemon.csproj.AssemblyReference.cache
+/Users/hasan/Projects/lemon/lemon/obj/Debug/net6.0/lemon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasan/Projects/lemon/lemon/obj/Debug/net6.0/lemon.AssemblyInfoInputs.cache
+/Users/hasan/Projects/lemon/lemon/obj/Debug/net6.0/lemon.AssemblyInfo.cs
+/Users/hasan/Projects/lemon/lemon/obj/Debug/net6.0/lemon.csproj.CoreCompileInputs.cache
+/Users/hasan/Projects/lemon/lemon/obj/Debug/net6.0/lemon.dll
+/Users/hasan/Projects/lemon/lemon/obj/Debug/net6.0/refint/lemon.dll
+/Users/hasan/Projects/lemon/lemon/obj/Debug/net6.0/lemon.pdb
+/Users/hasan/Projects/lemon/lemon/obj/Debug/net6.0/lemon.genruntimeconfig.cache
+/Users/hasan/Projects/lemon/lemon/obj/Debug/net6.0/ref/lemon.dll
